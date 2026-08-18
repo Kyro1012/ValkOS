@@ -1,0 +1,25 @@
+# ISO images
+iso/*.iso
+
+# VM disks
+vm/*.qcow2
+vm/*.img
+vm/*.raw
+
+# Build output
+build/
+dist/
+
+# Generated packages
+*.pkg.tar.*
+*.zst
+
+# Logs
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
